@@ -1,4 +1,4 @@
-const BlogList = ({blogs,title,handDelete}) => {
+const BlogList = ({blogs, title, handDelete}) => {
     return (  
        <div className="Blog-list">
            <h1> {title}</h1>
